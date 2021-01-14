@@ -1,5 +1,5 @@
 Squall831
 
-#Portfolio
+# Portfolio
 
-##This is a personal portfolio.
+## This is a personal portfolio.
